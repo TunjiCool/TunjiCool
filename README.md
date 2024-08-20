@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TunjiCool
+- 👋 Hi, I’m @TunjiNg
 - 👀 I’m interested in C# for application development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate enterprise system apps development
